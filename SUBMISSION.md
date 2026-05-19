@@ -6,13 +6,6 @@ This submission contains the completed implementation for the World Cup on-chain
 
 - `contracts/contracts/WorldCupBetting.sol`
 
-The repository also includes the existing full-stack prediction markets application:
-
-- Smart contracts: Solidity, Hardhat, OpenZeppelin
-- Frontend: Next.js, React, TypeScript, Wagmi, Viem, RainbowKit
-- Assessment tests: `contracts/test/WorldCupBetting.assessment.test.ts`
-
-Generated folders such as `node_modules`, `.next`, `contracts/artifacts`, and `contracts/cache` should not be submitted.
 
 ## Approach and Key Decisions
 
@@ -146,7 +139,6 @@ Result:
 Compiled successfully
 ```
 
-There are existing lint warnings for unused imports/variables in some frontend hooks, but they do not block the build.
 
 ## Notes for Reviewers
 
